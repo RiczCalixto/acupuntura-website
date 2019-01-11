@@ -1,0 +1,24 @@
+.logo{
+    margin-top:1em;
+    margin-bottom: 1em;
+    
+}
+ul {
+    list-style-type: none;
+}
+.radius{
+    border-radius: 15px;
+}
+.white{
+    color: white;
+}
+.main{
+    margin-top:1em;
+    margin-bottom: 1em;
+}
+.corbarra{
+    background-color: black;
+    padding: 2em;
+    
+    
+}
